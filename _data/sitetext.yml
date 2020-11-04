@@ -104,7 +104,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Leave a message here or send us an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a>"
+    text: "Leave a message here or send us an email to secgbltd@gmail.com"
     section: contact
     
 footer:
