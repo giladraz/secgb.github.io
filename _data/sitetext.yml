@@ -17,7 +17,7 @@ services:
         icon: fas fa-microscope       
       - title: "Full Security Solutions"
         desc: "Provide a full end to end security solution."
-        icon: fab fa-lock
+        icon: fas fa-award
 
 # portfolio:
 #     title: "Portfolio"
